@@ -1,5 +1,5 @@
-#define BLYNK_AUTH_TOKEN "T35gExnpQ9H8AyxPxNtCf6KA2rAqPvgV"
-#define BLYNK_TEMPLATE_ID "TMPL3KvRlT9SR"
+#define BLYNK_AUTH_TOKEN "your auth token"
+#define BLYNK_TEMPLATE_ID "your template id"
 #define BLYNK_TEMPLATE_NAME "Quickstart Device"
 
 #define BLYNK_PRINT Serial
@@ -19,8 +19,8 @@
 
 #include <BlynkSimpleEsp32.h>
 
-#define WiFi_SSID "realme GT 6"
-#define WiFi_PASS "q5y6j9np"
+#define WiFi_SSID "your ssid"
+#define WiFi_PASS "your pass"
 
 
 const int lpin = 25;
